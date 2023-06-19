@@ -150,7 +150,6 @@ this basically concludes setup for all the pre-page making stuff. let's make som
 
 "wait, what is `base.njk`?" THIS IS `base.njk`:
 
-{%raw%}
 ```html
 <!DOCTYPE html>
 <html lang="en">
@@ -165,7 +164,6 @@ this basically concludes setup for all the pre-page making stuff. let's make som
 	</body>
 </html>
 ```
-{%endraw%}
 
 this will be your first template. for now, the only thing of note will be the page title. "content" will be replaced with the content of your content pages (feeling content yet?) such as your `index.md` file. the "safe" filter will parse any formatting tags inside the file as actual html formatting.
 
