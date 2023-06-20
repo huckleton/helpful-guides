@@ -1,4 +1,4 @@
-# useful artist resources
+# links for artists
 
 ## Assets
 * [Creative Market](https://creativemarket.com/): Fonts, templates, graphics, brushes, icons, and more. Every week, Creative Market has a set of four different "[Free Goods](https://creativemarket.com/free-goods)" downloads. If you download these, they are added to your purchase history permanently and made available to download at any time

@@ -1,4 +1,4 @@
-# Emoji Resources
+# links to emoji repositories
 Note: Also see `/art` for many open-source emoji repositories
 
 ## Full Emoji Sets

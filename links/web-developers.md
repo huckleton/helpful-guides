@@ -1,4 +1,4 @@
-# useful web dev resources
+# links for web developers
 
 ## Front-end development
 * [Free Frontend](https://freefrontend.com/) (code snippets)
